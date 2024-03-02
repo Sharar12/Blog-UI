@@ -88,3 +88,5 @@ MIT
 <!-- [2024-03-02] feat: scaffold Laravel backend API routes for blog posts -->
 
 <!-- [2024-03-02] feat: create Next.js blog UI layout and navigation -->
+
+<!-- [2024-03-02] feat: implement post listing and detail view pages -->
