@@ -86,3 +86,5 @@ The frontend runs on `http://localhost:3000` and the API on `http://localhost:80
 MIT
 
 <!-- [2024-03-02] feat: scaffold Laravel backend API routes for blog posts -->
+
+<!-- [2024-03-02] feat: create Next.js blog UI layout and navigation -->
